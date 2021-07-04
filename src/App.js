@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          斯人若彩虹，遇上方知有
         </a>
       </header>
     </div>
